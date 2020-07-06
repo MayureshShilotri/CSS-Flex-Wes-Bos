@@ -211,5 +211,14 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   height: 100vh;
   font-size: 72px;
   color: white;
-  align-items: stretch;
+  flex-wrap: wrap;
+  align-items:flex-start;
+}
+
+.box {
+  width: 33.333%;
+}
+
+.box8 {
+  align-self: flex-end;
 }
