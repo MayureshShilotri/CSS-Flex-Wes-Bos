@@ -26,17 +26,12 @@ a:focus {
   outline: thin dotted;
 }
 
-<<<<<<< HEAD
 /* We start writing out flexbox here. The above is just page setup */
 .container {
   display: flex;
   height: 100vh;
   border: 10px solid goldenrod;
   flex-direction: row;
-=======
-a:active, a:hover {
-  outline: 0;
->>>>>>> 4a25d89e10ba79c3ef8d1bba5a50343644315244
 }
 
 h1 {
